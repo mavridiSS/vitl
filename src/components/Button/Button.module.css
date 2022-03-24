@@ -1,0 +1,31 @@
+.base {
+  color: #333;
+  position: relative;
+  min-width: 160px;
+  height: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: sofia-pro, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  box-shadow: none;
+  outline: none;
+  cursor: pointer;
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.primary {
+  background-color: #ffd326;
+}
+
+.secondary {
+  background-color: #c14242;
+}
